@@ -1,0 +1,13 @@
+api-node-postgres/
+├── node_modules/
+├── .env
+├── index.js             
+├── package.json
+├── config/
+│   └── db.js           
+├── models/
+│   └── Libro.js        
+├── routes/
+│   └── libroRoutes.js  
+└── controllers/
+    └── libroController.js 
