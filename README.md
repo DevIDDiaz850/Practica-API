@@ -1,17 +1,5 @@
 # Practica-API
-api-node-postgres/
-├── node_modules/
-├── .env
-├── index.js             
-├── package.json
-├── config/
-│   └── db.js           
-├── models/
-│   └── Libro.js        
-├── routes/
-│   └── libroRoutes.js  
-└── controllers/
-    └── libroController.js 
+npm i PARA DESCARGAR LOS PAQUETES :)
 
 La siguiente documentación describe los *endpoints* disponibles para interactuar con el servicio de gestión de Libros, construido con Node.js, Express y PostgreSQL (Sequelize).
 
